@@ -46,6 +46,9 @@ University students today face significant mental health challenges such as anxi
 ###  Figma Prototype  
  [Figma Prototype Link Here](https://www.figma.com/make/aiCWRahZlInSBf6zbkrriW/Mental-Health-Mobile-App?node-id=0-1&p=f&fullscreen=1)  
 
+ ### Demo Video
+[Click here to watch our demo](https://youtu.be/kyBjTrBltyI)
+
 ---
 
 ##  Tech Stack
