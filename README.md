@@ -14,7 +14,7 @@ Build an application tailored for university students that helps complement exis
    - [Figma Prototype](#figma-prototype)  
 4. [Tech Stack](#tech-stack)  
 5. [Impact](#impact)  
-6. [Team Members](#team-memberscollaborators)  
+6. [Team members/Collaborator](#team-memberscollaborator)  
 
 ---
 
