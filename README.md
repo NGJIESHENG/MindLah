@@ -6,16 +6,15 @@
 Build an application tailored for university students that helps complement existing support systems by offering proactive mental health tools, promoting self-care, and helping students manage stress.
 
 ## Table of Contents
-1. [Overview](#-overview)  
-2. [Key Features](#-key-features)  
-3. [Prototype & Demo](#-prototype--demo)  
-   - [Video Presentation](#-video-presentation)  
-   - [Slides](#-presentation-slides)  
-   - [Figma Prototype](#-figma-prototype)  
-4. [Tech Stack](#-tech-stack)  
-5. [Impact](#-impact)  
-6. [Future Roadmap](#-future-roadmap)  
-7. [Team Members](#-team-members)  
+1. [Overview](#overview)  
+2. [Key Features](#key-features)  
+3. [Prototype & Demo](#prototype--demo)  
+   - [Video Presentation](#video-presentation)  
+   - [Slides](#presentation-slides)  
+   - [Figma Prototype](#figma-prototype)  
+4. [Tech Stack](#tech-stack)  
+5. [Impact](#impact)  
+6. [Team Members](#team-members)  
 
 ---
 
