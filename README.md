@@ -45,19 +45,22 @@ University students today face significant mental health challenges such as anxi
  [Slides Link Here](https://www.canva.com/design/DAGx-9aaM0k/Q_oXlKpKZ_CyiggLRsPFpw/edit?utm_content=DAGx-9aaM0k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ###  Figma Prototype  
- [Figma Prototype Link Here](https://www.figma.com/make/aiCWRahZlInSBf6zbkrriW/Mental-Health-Mobile-App?node-id=0-1&t=EMMgCFKpj87R5sG5-1)  
+ [Figma Prototype Link Here](https://www.figma.com/make/aiCWRahZlInSBf6zbkrriW/Mental-Health-Mobile-App?node-id=0-1&p=f&fullscreen=1)  
 
 ---
 
 ##  Tech Stack
 - **Frontend:** Flutter (cross-platform mobile app development).  
 - **Backend:** Firebase (authentication, real-time database, notifications).  
-- **Chatbot/AI (Future):** OpenAI API or Rasa for conversational AI.  
+- **Chatbot/AI (Future):** OpenAI API for conversational AI.  
 - **Calendar Integration:** Google Calendar API.  
 
 ---
 
 ##  Impact
+- Helps students cope with stress.
+- Encourages early self-awareness.
+- Provides stigma-free support.
 - Provides **non-judgmental support** for students who may hesitate to seek counseling.  
 - Encourages **daily self-awareness** through mood journaling and progress tracking.  
 - Promotes **early intervention** by spotting stress triggers (like exam deadlines).  
