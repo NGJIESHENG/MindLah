@@ -14,8 +14,9 @@ Build an application tailored for university students that helps complement exis
    - [Figma Prototype](#figma-prototype)
    - [Prototype demo video](#demo-video)
 4. [Tech Stack](#tech-stack)  
-5. [Impact](#impact)  
-6. [Team members/Collaborator](#team-memberscollaborator)  
+5. [Impact](#impact)
+6. [Future Roadmap](#future-roadmap)  
+7. [Team members/Collaborator](#team-memberscollaborator)  
 
 ---
 
@@ -68,6 +69,33 @@ University students today face significant mental health challenges such as anxi
 - Encourages **daily self-awareness** through mood journaling and progress tracking.  
 - Promotes **early intervention** by spotting stress triggers (like exam deadlines).  
 - Creates a **safe space** that feels culturally relevant and approachable with the “lah” branding.  
+
+---
+
+## Future Roadmap
+
+- **Phase 1 – Prototype (Current Stage)**
+  - Figma UI/UX mockup completed
+  - Defined core features: Mood Tracker, Self-Care, Dashboard
+  - GitHub repo initialized with documentation
+
+- **Phase 2 – Hackathon Development**
+  - Implement frontend using Flutter
+  - Connect Firebase for authentication & database
+  - Integrate basic notifications and mood logging
+  - Prepare demo app build for judging
+
+- **Phase 3 – Post-Hackathon Expansion**
+  - Add AI-powered Chatbot (OpenAI API)
+  - Enable Google Calendar integration for stress reminders
+  - Improve accessibility: dark mode, voice input, screen reader support
+  - Expand self-care library with localized practices
+
+- **Phase 4 – Scaling & Adoption**
+  - Beta testing with students from MMU and partner universities
+  - Community features: peer support & group challenges
+  - Multi-language support (English, Malay, Mandarin, Tamil)
+  - Partnerships with campus counseling centers
 
 ---
 
