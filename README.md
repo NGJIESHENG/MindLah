@@ -5,7 +5,7 @@
 **Problem Statement:** 
 Build an application tailored for university students that helps complement existing support systems by offering proactive mental health tools, promoting self-care, and helping students manage stress.
 
-## 📑 Table of Contents
+## Table of Contents
 1. [Overview](#-overview)  
 2. [Key Features](#-key-features)  
 3. [Prototype & Demo](#-prototype--demo)  
