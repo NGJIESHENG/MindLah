@@ -1,5 +1,5 @@
 # Team name: Hello Wurld
-## Track : Student Lifestyle
+## Track: Student Lifestyle
 ## Mental health support for students
 
 **Problem Statement:** 
