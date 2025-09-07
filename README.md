@@ -6,7 +6,7 @@
 Many students don’t seek help because counseling resources are limited or they fear stigma.  
 This challenge will explore creating tools for self-care, mental health support, and helping students cope with the demands of university life.
 
-**Objective**
+**Objective:**
 Build an application tailored for university students that helps complement existing support systems by offering proactive mental health tools, promoting self-care, and helping students manage stress.
 
 ## Table of Contents
