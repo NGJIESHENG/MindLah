@@ -3,6 +3,10 @@
 ## Mental health support for students
 
 **Problem Statement:** 
+Many students don’t seek help because counseling resources are limited or they fear stigma.  
+This challenge will explore creating tools for self-care, mental health support, and helping students cope with the demands of university life.
+
+**Objective**
 Build an application tailored for university students that helps complement existing support systems by offering proactive mental health tools, promoting self-care, and helping students manage stress.
 
 ## Table of Contents
@@ -85,17 +89,16 @@ University students today face significant mental health challenges such as anxi
   - Integrate basic notifications and mood logging
   - Prepare demo app build for judging
 
-- **Phase 3 – Post-Hackathon Expansion**
+- **Phase 3 – Hackathon Expansion**
   - Add AI-powered Chatbot (OpenAI API)
   - Enable Google Calendar integration for stress reminders
-  - Improve accessibility: dark mode, voice input, screen reader support
+  - Improve accessibility: dark mode, screen reader support
   - Expand self-care library with localized practices
 
 - **Phase 4 – Scaling & Adoption**
   - Beta testing with students from MMU and partner universities
   - Community features: peer support & group challenges
   - Multi-language support (English, Malay, Mandarin, Tamil)
-  - Partnerships with campus counseling centers
 
 ---
 
