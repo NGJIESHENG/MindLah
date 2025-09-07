@@ -69,7 +69,7 @@ University students today face significant mental health challenges such as anxi
 
 ##  Team members/Collaborator
 - **[Ng Jie Sheng]** – UI/UX & Frontend 
-- **[Ivan Cheah Kah Jun]** – Backend  
+- **[Ivan Cheah Ka Jun]** – Backend  
 - **[Lam Yew Fei]** – Backend
 
 ---
